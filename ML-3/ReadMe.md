@@ -17,7 +17,6 @@ Files Included
 * **spambase\_csv.csv** – Dataset used for training and testing the classifiers (ensure correct path).
 
 
-What Each Script Does
 
 Naive Bayes (Bernoulli, Multinomial, Gaussian)
 
