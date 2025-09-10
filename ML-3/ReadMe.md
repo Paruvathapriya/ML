@@ -70,7 +70,7 @@ Requirements
 
 ---
 
-## Notes
+Notes
 
 * Ensure the dataset file path is updated in each script before running.
 * The scripts include **Confusion Matrix plots** and **ROC Curve plots** for better visualization of classifier performance.
@@ -78,4 +78,3 @@ Requirements
 
 ---
 
-👉 Would you like me to **combine all algorithms into a single main script (spam\_classifier.py)** with menu-based execution, so that you can run one file and test all models at once?
